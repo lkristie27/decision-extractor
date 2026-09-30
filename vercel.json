@@ -1,0 +1,7 @@
+{
+  "name": "decision-extractor",
+  "version": 2,
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "public": true
+}
